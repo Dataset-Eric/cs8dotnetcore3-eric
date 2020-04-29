@@ -1,0 +1,13 @@
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\BoolOperator\obj\Debug\netcoreapp3.1\BoolOperator.csproj.CoreCompileInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\BoolOperator\obj\Debug\netcoreapp3.1\BoolOperator.AssemblyInfoInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\BoolOperator\obj\Debug\netcoreapp3.1\BoolOperator.AssemblyInfo.cs
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\BoolOperator\bin\Debug\netcoreapp3.1\BoolOperator.exe
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\BoolOperator\bin\Debug\netcoreapp3.1\BoolOperator.deps.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\BoolOperator\bin\Debug\netcoreapp3.1\BoolOperator.runtimeconfig.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\BoolOperator\bin\Debug\netcoreapp3.1\BoolOperator.runtimeconfig.dev.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\BoolOperator\bin\Debug\netcoreapp3.1\BoolOperator.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\BoolOperator\bin\Debug\netcoreapp3.1\BoolOperator.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\BoolOperator\obj\Debug\netcoreapp3.1\BoolOperator.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\BoolOperator\obj\Debug\netcoreapp3.1\BoolOperator.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\BoolOperator\obj\Debug\netcoreapp3.1\BoolOperator.genruntimeconfig.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\BoolOperator\obj\Debug\netcoreapp3.1\BoolOperator.csprojAssemblyReference.cache

@@ -1,0 +1,2 @@
+Debug I am watching
+Trace I am watching

@@ -1,0 +1,13 @@
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\CastingConversion\bin\Debug\netcoreapp3.1\CastingConversion.exe
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\CastingConversion\bin\Debug\netcoreapp3.1\CastingConversion.deps.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\CastingConversion\bin\Debug\netcoreapp3.1\CastingConversion.runtimeconfig.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\CastingConversion\bin\Debug\netcoreapp3.1\CastingConversion.runtimeconfig.dev.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\CastingConversion\bin\Debug\netcoreapp3.1\CastingConversion.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\CastingConversion\bin\Debug\netcoreapp3.1\CastingConversion.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\CastingConversion\obj\Debug\netcoreapp3.1\CastingConversion.csproj.CoreCompileInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\CastingConversion\obj\Debug\netcoreapp3.1\CastingConversion.AssemblyInfoInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\CastingConversion\obj\Debug\netcoreapp3.1\CastingConversion.AssemblyInfo.cs
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\CastingConversion\obj\Debug\netcoreapp3.1\CastingConversion.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\CastingConversion\obj\Debug\netcoreapp3.1\CastingConversion.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\CastingConversion\obj\Debug\netcoreapp3.1\CastingConversion.genruntimeconfig.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\CastingConversion\obj\Debug\netcoreapp3.1\CastingConversion.csprojAssemblyReference.cache

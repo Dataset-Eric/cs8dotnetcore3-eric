@@ -1,0 +1,13 @@
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\bin\Debug\netcoreapp3.1\Chapitre03.exe
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\bin\Debug\netcoreapp3.1\Chapitre03.deps.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\bin\Debug\netcoreapp3.1\Chapitre03.runtimeconfig.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\bin\Debug\netcoreapp3.1\Chapitre03.runtimeconfig.dev.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\bin\Debug\netcoreapp3.1\Chapitre03.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\bin\Debug\netcoreapp3.1\Chapitre03.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\obj\Debug\netcoreapp3.1\Chapitre03.csprojAssemblyReference.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\obj\Debug\netcoreapp3.1\Chapitre03.csproj.CoreCompileInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\obj\Debug\netcoreapp3.1\Chapitre03.AssemblyInfoInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\obj\Debug\netcoreapp3.1\Chapitre03.AssemblyInfo.cs
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\obj\Debug\netcoreapp3.1\Chapitre03.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\obj\Debug\netcoreapp3.1\Chapitre03.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\obj\Debug\netcoreapp3.1\Chapitre03.genruntimeconfig.cache

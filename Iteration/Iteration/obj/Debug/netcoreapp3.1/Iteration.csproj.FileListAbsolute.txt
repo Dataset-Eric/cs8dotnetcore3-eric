@@ -1,0 +1,13 @@
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.exe
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.deps.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.runtimeconfig.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.runtimeconfig.dev.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.csprojAssemblyReference.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.csproj.CoreCompileInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.AssemblyInfoInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.AssemblyInfo.cs
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.genruntimeconfig.cache

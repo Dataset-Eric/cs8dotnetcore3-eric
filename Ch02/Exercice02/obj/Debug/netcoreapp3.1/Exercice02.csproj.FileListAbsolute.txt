@@ -1,0 +1,13 @@
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\Exercice02\bin\Debug\netcoreapp3.1\Exercice02.exe
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\Exercice02\bin\Debug\netcoreapp3.1\Exercice02.deps.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\Exercice02\bin\Debug\netcoreapp3.1\Exercice02.runtimeconfig.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\Exercice02\bin\Debug\netcoreapp3.1\Exercice02.runtimeconfig.dev.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\Exercice02\bin\Debug\netcoreapp3.1\Exercice02.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\Exercice02\bin\Debug\netcoreapp3.1\Exercice02.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\Exercice02\obj\Debug\netcoreapp3.1\Exercice02.csproj.CoreCompileInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\Exercice02\obj\Debug\netcoreapp3.1\Exercice02.AssemblyInfoInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\Exercice02\obj\Debug\netcoreapp3.1\Exercice02.AssemblyInfo.cs
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\Exercice02\obj\Debug\netcoreapp3.1\Exercice02.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\Exercice02\obj\Debug\netcoreapp3.1\Exercice02.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\Exercice02\obj\Debug\netcoreapp3.1\Exercice02.genruntimeconfig.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\Exercice02\obj\Debug\netcoreapp3.1\Exercice02.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\HandlingException\obj\Debug\netcoreapp3.1\HandlingException.csproj.CoreCompileInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\HandlingException\obj\Debug\netcoreapp3.1\HandlingException.AssemblyInfoInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\HandlingException\obj\Debug\netcoreapp3.1\HandlingException.AssemblyInfo.cs
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\HandlingException\bin\Debug\netcoreapp3.1\HandlingException.exe
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\HandlingException\bin\Debug\netcoreapp3.1\HandlingException.deps.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\HandlingException\bin\Debug\netcoreapp3.1\HandlingException.runtimeconfig.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\HandlingException\bin\Debug\netcoreapp3.1\HandlingException.runtimeconfig.dev.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\HandlingException\bin\Debug\netcoreapp3.1\HandlingException.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\HandlingException\bin\Debug\netcoreapp3.1\HandlingException.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\HandlingException\obj\Debug\netcoreapp3.1\HandlingException.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\HandlingException\obj\Debug\netcoreapp3.1\HandlingException.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\HandlingException\obj\Debug\netcoreapp3.1\HandlingException.genruntimeconfig.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\HandlingException\obj\Debug\netcoreapp3.1\HandlingException.csprojAssemblyReference.cache

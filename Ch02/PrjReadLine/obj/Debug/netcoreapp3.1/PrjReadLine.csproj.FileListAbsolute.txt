@@ -1,0 +1,13 @@
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\PrjReadLine\bin\Debug\netcoreapp3.1\PrjReadLine.exe
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\PrjReadLine\bin\Debug\netcoreapp3.1\PrjReadLine.deps.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\PrjReadLine\bin\Debug\netcoreapp3.1\PrjReadLine.runtimeconfig.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\PrjReadLine\bin\Debug\netcoreapp3.1\PrjReadLine.runtimeconfig.dev.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\PrjReadLine\bin\Debug\netcoreapp3.1\PrjReadLine.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\PrjReadLine\bin\Debug\netcoreapp3.1\PrjReadLine.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\PrjReadLine\obj\Debug\netcoreapp3.1\PrjReadLine.csprojAssemblyReference.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\PrjReadLine\obj\Debug\netcoreapp3.1\PrjReadLine.csproj.CoreCompileInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\PrjReadLine\obj\Debug\netcoreapp3.1\PrjReadLine.AssemblyInfoInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\PrjReadLine\obj\Debug\netcoreapp3.1\PrjReadLine.AssemblyInfo.cs
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\PrjReadLine\obj\Debug\netcoreapp3.1\PrjReadLine.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\PrjReadLine\obj\Debug\netcoreapp3.1\PrjReadLine.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Ch02\PrjReadLine\obj\Debug\netcoreapp3.1\PrjReadLine.genruntimeconfig.cache

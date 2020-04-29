@@ -1,0 +1,13 @@
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapter04\CalculatorLib\bin\Debug\netcoreapp3.1\CalculatorLib.exe
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapter04\CalculatorLib\bin\Debug\netcoreapp3.1\CalculatorLib.deps.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapter04\CalculatorLib\bin\Debug\netcoreapp3.1\CalculatorLib.runtimeconfig.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapter04\CalculatorLib\bin\Debug\netcoreapp3.1\CalculatorLib.runtimeconfig.dev.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapter04\CalculatorLib\bin\Debug\netcoreapp3.1\CalculatorLib.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapter04\CalculatorLib\bin\Debug\netcoreapp3.1\CalculatorLib.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapter04\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.csproj.CoreCompileInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapter04\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.AssemblyInfoInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapter04\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.AssemblyInfo.cs
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapter04\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapter04\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapter04\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.genruntimeconfig.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapter04\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.csprojAssemblyReference.cache

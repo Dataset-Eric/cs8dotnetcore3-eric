@@ -1,0 +1,13 @@
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\PrjString\obj\Debug\netcoreapp3.1\PrjString.csproj.CoreCompileInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\PrjString\obj\Debug\netcoreapp3.1\PrjString.AssemblyInfoInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\PrjString\obj\Debug\netcoreapp3.1\PrjString.AssemblyInfo.cs
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\PrjString\bin\Debug\netcoreapp3.1\PrjString.exe
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\PrjString\bin\Debug\netcoreapp3.1\PrjString.deps.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\PrjString\bin\Debug\netcoreapp3.1\PrjString.runtimeconfig.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\PrjString\bin\Debug\netcoreapp3.1\PrjString.runtimeconfig.dev.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\PrjString\bin\Debug\netcoreapp3.1\PrjString.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\PrjString\bin\Debug\netcoreapp3.1\PrjString.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\PrjString\obj\Debug\netcoreapp3.1\PrjString.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\PrjString\obj\Debug\netcoreapp3.1\PrjString.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\PrjString\obj\Debug\netcoreapp3.1\PrjString.genruntimeconfig.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\PrjString\obj\Debug\netcoreapp3.1\PrjString.csprojAssemblyReference.cache

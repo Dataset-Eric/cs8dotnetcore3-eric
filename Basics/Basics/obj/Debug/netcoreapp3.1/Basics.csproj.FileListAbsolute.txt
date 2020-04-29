@@ -1,0 +1,13 @@
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Basics\Basics\bin\Debug\netcoreapp3.1\Basics.exe
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Basics\Basics\bin\Debug\netcoreapp3.1\Basics.deps.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Basics\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Basics\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.dev.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Basics\Basics\bin\Debug\netcoreapp3.1\Basics.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Basics\Basics\bin\Debug\netcoreapp3.1\Basics.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Basics\Basics\obj\Debug\netcoreapp3.1\Basics.csprojAssemblyReference.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Basics\Basics\obj\Debug\netcoreapp3.1\Basics.csproj.CoreCompileInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Basics\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfoInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Basics\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfo.cs
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Basics\Basics\obj\Debug\netcoreapp3.1\Basics.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Basics\Basics\obj\Debug\netcoreapp3.1\Basics.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Basics\Basics\obj\Debug\netcoreapp3.1\Basics.genruntimeconfig.cache

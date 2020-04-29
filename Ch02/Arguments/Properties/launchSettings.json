@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Arguments": {
+      "commandName": "Project",
+      "commandLineArgs": "black white 500 200",
+      "environmentVariables": {
+        "Taille": "XL",
+        "Couleur": "Vert"
+      }
+    }
+  }
+}

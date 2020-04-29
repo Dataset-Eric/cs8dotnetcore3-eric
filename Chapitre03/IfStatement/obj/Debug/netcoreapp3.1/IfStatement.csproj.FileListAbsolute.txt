@@ -1,0 +1,13 @@
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.exe
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.deps.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.runtimeconfig.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.runtimeconfig.dev.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.csprojAssemblyReference.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.csproj.CoreCompileInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.AssemblyInfoInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.AssemblyInfo.cs
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.genruntimeconfig.cache

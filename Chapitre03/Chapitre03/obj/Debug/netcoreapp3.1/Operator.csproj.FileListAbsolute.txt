@@ -1,0 +1,13 @@
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\bin\Debug\netcoreapp3.1\Operator.exe
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\bin\Debug\netcoreapp3.1\Operator.deps.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\bin\Debug\netcoreapp3.1\Operator.runtimeconfig.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\bin\Debug\netcoreapp3.1\Operator.runtimeconfig.dev.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\bin\Debug\netcoreapp3.1\Operator.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\bin\Debug\netcoreapp3.1\Operator.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\obj\Debug\netcoreapp3.1\Operator.csprojAssemblyReference.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\obj\Debug\netcoreapp3.1\Operator.csproj.CoreCompileInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\obj\Debug\netcoreapp3.1\Operator.AssemblyInfoInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\obj\Debug\netcoreapp3.1\Operator.AssemblyInfo.cs
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\obj\Debug\netcoreapp3.1\Operator.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\obj\Debug\netcoreapp3.1\Operator.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Chapitre03\obj\Debug\netcoreapp3.1\Operator.genruntimeconfig.cache

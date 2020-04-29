@@ -1,0 +1,13 @@
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Ex3.3\obj\Debug\netcoreapp3.1\Ex3.3.csprojAssemblyReference.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Ex3.3\obj\Debug\netcoreapp3.1\Ex3.3.csproj.CoreCompileInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Ex3.3\obj\Debug\netcoreapp3.1\Ex3.3.AssemblyInfoInputs.cache
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Ex3.3\obj\Debug\netcoreapp3.1\Ex3.3.AssemblyInfo.cs
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Ex3.3\bin\Debug\netcoreapp3.1\Ex3.3.exe
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Ex3.3\bin\Debug\netcoreapp3.1\Ex3.3.deps.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Ex3.3\bin\Debug\netcoreapp3.1\Ex3.3.runtimeconfig.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Ex3.3\bin\Debug\netcoreapp3.1\Ex3.3.runtimeconfig.dev.json
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Ex3.3\bin\Debug\netcoreapp3.1\Ex3.3.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Ex3.3\bin\Debug\netcoreapp3.1\Ex3.3.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Ex3.3\obj\Debug\netcoreapp3.1\Ex3.3.dll
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Ex3.3\obj\Debug\netcoreapp3.1\Ex3.3.pdb
+D:\source\cs8dotnetcore3\cs8dotnetcore3-eric\Chapitre03\Ex3.3\obj\Debug\netcoreapp3.1\Ex3.3.genruntimeconfig.cache
